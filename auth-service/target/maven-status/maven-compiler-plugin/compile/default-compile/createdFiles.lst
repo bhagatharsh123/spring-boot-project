@@ -1,0 +1,9 @@
+com\yourcompany\auth\model\AuthRequest.class
+com\yourcompany\auth\model\User.class
+com\yourcompany\auth\repository\UserRepository.class
+com\yourcompany\auth\AuthServiceApplication.class
+com\yourcompany\auth\config\SecurityConfig.class
+com\yourcompany\auth\config\JwtTokenProvider.class
+com\yourcompany\auth\service\AuthService.class
+com\yourcompany\auth\service\CustomUserDetailsService.class
+com\yourcompany\auth\controller\AuthController.class
